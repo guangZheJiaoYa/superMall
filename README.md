@@ -1,4 +1,4 @@
-# sp
+# superMall
 
 ## Project setup
 ```
